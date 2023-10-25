@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T13:25:47.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="LCV9R2W2wuS6_UmhbVpl" version="22.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-25T13:35:16.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="qBO8tQXuaYIViRxAM3R_" version="22.0.7" type="github" pages="9">
   <diagram id="mQAeHGsvcNYUFSRuH0Bx" name="Page-1">
     <mxGraphModel dx="1286" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1260,8 +1260,8 @@
         <mxCell id="Mv6TQ7lKleKcgImKPW6e-39" value="NULL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jjgNc212ooJLpeKWddg8-1">
           <mxGeometry x="2340" y="715" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mv6TQ7lKleKcgImKPW6e-40" value="如果变成上面的样子，再执行accelerate时，seq只能传2，不能传大于2的数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jjgNc212ooJLpeKWddg8-1">
-          <mxGeometry x="1925" y="1040" width="430" height="30" as="geometry" />
+        <mxCell id="Mv6TQ7lKleKcgImKPW6e-40" value="如果变成上面的样子，不能再accelerate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jjgNc212ooJLpeKWddg8-1">
+          <mxGeometry x="2020" y="1040" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mv6TQ7lKleKcgImKPW6e-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="jjgNc212ooJLpeKWddg8-1">
           <mxGeometry x="2505" y="150" width="20" height="190" as="geometry" />
@@ -1973,6 +1973,14 @@
         <mxCell id="YiXmqJzOOo1KyXtokTKa-18" value="&lt;div&gt;gp = 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2008" y="2488.75" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DAEUNuBWF-Fk2WWwxljd" name="第1次：rcu_segcblist_extract_done_cbs">
+    <mxGraphModel dx="1493" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
